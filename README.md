@@ -14,8 +14,4 @@ A simple To-Do List Web App built with **HTML**, **CSS**, and **JavaScript**. Th
 - **CSS**: Styled the app for a user-friendly interface.
 - **JavaScript**: Used to handle task adding and removing functionality dynamically.
 
-## Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Zyphirious/to-do-list-web-app.git
